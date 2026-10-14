@@ -1,0 +1,6 @@
+[run]
+source = Reposteria
+omit = 
+    tests/*
+    autoapp.py
+
